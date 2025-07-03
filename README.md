@@ -1,18 +1,9 @@
-## Grace Somin Lee
-
-<!--
-**gracesominl/gracesominl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=100&section=header&text=Grace%20Somin%20Lee&fontSize=35&fontAlign=72&fontColor=474747&animation=fadeIn)
+
+### Education
+Master's student @ KAIST DHCSS
+- B.A. Political Science and International Relations, Yonsei University (2024)
+- B.A. Sustainable Development and Cooperation, Yonsei University (2024)
+
+### Work Experience
+- Research and Data Intern, UN Women
