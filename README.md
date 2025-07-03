@@ -1,4 +1,8 @@
-[![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=40)](https://gracesominl.github.io)
+<div style="text-align: left;">
+  <a href="https://gracesominl.github.io">
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=40" alt="Grace Somin Lee Header" />
+  </a>
+</div>
 
 ### About
 Hi there! I am a master's student at KAIST DHCSS. 
