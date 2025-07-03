@@ -1,4 +1,4 @@
-[![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header)](https://gracesominl.github.io)
+![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header)
 
 ### About
 Hi there! I am a master's student at KAIST DHCSS. 
