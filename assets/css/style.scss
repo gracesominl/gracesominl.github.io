@@ -1,1 +1,34 @@
+// Import default GitHub Pages theme styles first
+@import "{{ site.theme }}";
+
+// Custom styles below
+
+body {
+  font-family: "Helvetica Neue", sans-serif;
+  font-size: 16px;
+  color: #222;
+  line-height: 1.6;
+  background-color: #fdfdfd;
+}
+
+a {
+  color: #3178c6;
+  text-decoration: none;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+h1, h2, h3, h4 {
+  font-weight: 600;
+  color: #1a1a1a;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
 
