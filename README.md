@@ -1,8 +1,4 @@
-<div style="text-align: left;">
-  <a href="https://gracesominl.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=40" alt="Grace Somin Lee Header" />
-  </a>
-</div>
+[![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header)](https://gracesominl.github.io)
 
 ### About
 Hi there! I am a master's student at KAIST DHCSS. 
@@ -12,7 +8,6 @@ I study how algorithmic systems can approximate human narratives, focusing on me
 Data Humanism; Algorithmic Bias; Computational Ethnography;
 
 ### Education
-Master's student @ KAIST DHCSS
 - B.A. Political Science and International Relations, Yonsei University (2024)
 - B.A. Sustainable Development and Cooperation, Yonsei University (2024)
 
