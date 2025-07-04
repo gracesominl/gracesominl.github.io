@@ -55,7 +55,7 @@ layout: default
 <!-- Contact Bar -->
 <div style="text-align: center; margin: 30px 0;">
   <a href="mailto:gracesomin@kaist.ac.kr" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">Email</a>
-  <a href="https://github.com/gracesominl" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">GitHub</a>
+  <a href="https://github.com/gracesominlee" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">GitHub</a>
   <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">LinkedIn</a>
 </div>
 
