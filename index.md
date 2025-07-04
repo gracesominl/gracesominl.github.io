@@ -3,14 +3,14 @@ layout: default
 ---
 
 <!-- Custom Clickable Banner (Centered) -->
-<div style="text-align: center; margin-top: 20px;">
+<div style="text-align: center; margin-top: 5px;">
   <a href="https://gracesominl.github.io">
     <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=35&fontColor=474747" alt="Grace Somin Lee Banner" style="max-width: 100%;"/>
   </a>
 </div>
 
 <!-- Profile Image -->
-<div style="text-align: center; margin-top: 10px;">
+<div style="text-align: center; margin-top: 0px;">
   <img src="/assets/img/face2.JPG" alt="Grace Somin Lee"  style="width: 100%; max-width: 200px; height: 200px; object-fit: cover;
             clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 
                                79% 91%, 50% 70%, 21% 91%, 32% 57%, 
