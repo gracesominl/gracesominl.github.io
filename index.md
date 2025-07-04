@@ -1,13 +1,6 @@
 ---
 layout: default
 ---
-<!-- Contact Links at very top right -->
-<div style="display: flex; justify-content: flex-end; padding: 10px 20px 0 20px; font-size: 14px;">
-  <div style="text-align: right;">
-    <a href="gracesomin@kaist.ac.kr" style="color: #3178c6; text-decoration: underline;">youremail@example.com</a><br>
-    <a href="https://github.com/gracesominl" target="_blank" style="color: #3178c6; text-decoration: underline;">github.com/gracesominl</a>
-  </div>
-</div>
 
 <!-- Custom Clickable Banner (Centered) -->
 <div style="text-align: center; margin-top: 20px;">
@@ -35,7 +28,7 @@ layout: default
 ## About Me
 
 Hi there! I’m a master’s student in Computational Social Science at KAIST.
-I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data.
+I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. 
 
 ---
 
