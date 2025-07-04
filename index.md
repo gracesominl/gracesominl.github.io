@@ -12,16 +12,12 @@ layout: default
 </div>
 
 <!-- Profile Image -->
-<!-- Oval profile image with blurred glow -->
-<div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="/assets/img/face2.JPG" alt="Grace Somin Lee"
-       style="
-         width: 180px;
-         height: 130px;
-         object-fit: cover;
-         border-radius: 50% / 35%;
-         box-shadow: 0 0 20px rgba(49, 120, 198, 0.5);
-       " />
+<div style="text-align: center; margin-top: 0px;">
+  <img src="/assets/img/face2.JPG" alt="Grace Somin Lee"  style="width: 100%; max-width: 200px; height: 200px; object-fit: cover;
+            clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 
+                               79% 91%, 50% 70%, 21% 91%, 32% 57%, 
+                               2% 35%, 39% 35%);
+            " />
 </div>
 
 
