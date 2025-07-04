@@ -5,7 +5,7 @@ layout: default
 <!-- Custom Clickable Banner (Centered) -->
 <div style="text-align: center; margin-top: 20px;">
   <a href="https://gracesominl.github.io">
-    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=40" alt="Grace Somin Lee Banner" style="max-width: 100%;"/>
+    <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=40&fontColor=474747" alt="Grace Somin Lee Banner" style="max-width: 100%;"/>
   </a>
 </div>
 
@@ -15,16 +15,16 @@ layout: default
 </div>
 
 <!-- Intro Text -->
-<div style="text-align: center; font-size: 20px; margin-top: 10px;">
-  Master's Student @ KAIST <br />
-  Exploring algorithmic narratives, computational ethnography, and digital justice.
+<div style="text-align: center; font-size: 15px; margin-top: 10px;">
+  Bringing human narratives into the digital sphere···
 </div>
 
 ---
 
 ## About Me
 
-I'm Grace Somin Lee, a master's student in Computational Social Science at KAIST. I study how algorithmic systems can approximate human narratives — especially for communities marginalized by data systems.
+Hi there! I’m a master’s student in Computational Social Science at KAIST.
+I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data.
 
 ---
 
@@ -34,12 +34,12 @@ I'm Grace Somin Lee, a master's student in Computational Social Science at KAIST
 
 ---
 
-## Research Interests
+## Research Interests 
+- Data Humanism / Human-Centered AI
+- Algorithmic Bias & Representation 
 - Computational Ethnography  
-- Algorithmic Bias & Representation  
-- Data Feminism / Human-Centered AI
 
 ---
 
 ## Contact
-[Email](mailto:you@example.com) · [GitHub](https://github.com/gracesominl)
+[Email](gracesomin@kaist.ac.kr) · [GitHub](https://github.com/gracesominl)
