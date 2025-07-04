@@ -71,7 +71,7 @@ layout: default
 ### <span id="about-me" class="section-title">About Me</span>
 
 Hi there! I’m a master’s student in Computational Social Science at KAIST. 
-As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words...
+As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words such as...
   - Data Humanism / Human-Centered AI;
   - Algorithmic Bias & Representation;
   - Computational Ethnography;
@@ -87,6 +87,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 #### Work Experience
 - Research and Data Intern, UN Women (2025)
 
+
 <!-- divider line -->
 <div style="text-align: center; font-size: 15px; color: #474747; margin-top: 70px;">
   ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
@@ -96,6 +97,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 
 ### <span id="projects" class="section-title">Projects</span> 
 - Sample Project 1
+
 
 <!-- divider line -->
 <div style="text-align: center; font-size: 15px; color: #474747; margin-top: 70px;">
