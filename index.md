@@ -62,7 +62,7 @@ layout: default
 
 
 <!-- divider line -->
-<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 100px;">
+<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 105px;">
   ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
 </div>
 <!-- Spacer -->
@@ -78,7 +78,7 @@ As a part of TDS Lab, I study how algorithmic systems can approximate human narr
   - (In)visibility;
   - Violence
 
-I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another smol yet precious discourse. 
+I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another ✴smol✬ yet precious discourse. 
 
 #### Education
 - M.S. in Computational Social Science, KAIST (2025–)  
@@ -87,14 +87,22 @@ I have always been hopeful about the power of discourse. We all live in differen
 #### Work Experience
 - Research and Data Intern, UN Women (2025)
 
+<!-- divider line -->
+<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 30px;">
+  ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
+</div>
 <!-- Gap  -->
-<div style="height: 30px;"></div>
+<div style="height: 10px;"></div>
 
 ### <span id="projects" class="section-title">Projects</span> 
 - Sample Project 1
 
+<!-- divider line -->
+<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 30px;">
+  ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
+</div>
 <!-- Gap  -->
-<div style="height: 30px;"></div>
+<div style="height: 10px;"></div>
 
 ### <span id="cv" class="section-title">CV</span> 
 - sample cv
