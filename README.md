@@ -1,6 +1,6 @@
 <!-- Custom Capsule Banner with Name (clickable) -->
 <div align="center">
-  <a href="https://gracesominl.github.io">
+  <a href="https://gracesominlee.github.io">
     <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=40" alt="Grace Somin Lee banner" />
   </a>
 </div>
