@@ -5,10 +5,21 @@ layout: default
 <link rel="stylesheet" href="/assets/css/style.css">
 
 <!-- Navigation Bar -->
-<nav style="display: flex; justify-content: center; gap: 30px; padding: 12px 0; background-color: #ffffff; border-bottom: 1px solid #ccc; font-weight: 500;">
-  <a href="#about-me" style="color: #3178c6; text-decoration: none;">About Me</a>
-  <a href="#education" style="color: #3178c6; text-decoration: none;">Education</a>
-  <a href="#research-interests" style="color: #3178c6; text-decoration: none;">Research Interests</a>
+<!-- Navigation Bar: Top Right -->
+<nav style="
+  display: flex;
+  justify-content: flex-end;
+  gap: 30px;
+  padding: 12px 40px 12px 0;
+  background-color: #ffffff;
+  border-bottom: 1px solid #ccc;
+  font-weight: 500;
+  position: relative;
+  z-index: 10;
+">
+  <a href="#about-me" style="color: #73ea8b; text-decoration: none;">About Me</a>
+  <a href="#education" style="color: #73ea8b; text-decoration: none;">Education</a>
+  <a href="#research-interests" style="color: #73ea8b; text-decoration: none;">Research Interests</a>
 </nav>
 
 <!-- Custom Clickable Banner (Centered) -->
