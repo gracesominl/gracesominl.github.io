@@ -64,6 +64,7 @@ As a part of TDS Lab, I study how algorithmic systems can approximate human narr
   - Computational Ethnography;
   - (In)visibility;
   - Violence
+
 I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another smol yet precious discourse. 
 
 #### Education
