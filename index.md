@@ -50,10 +50,13 @@ layout: default
   <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 15px; color: #73ea8b; text-decoration: none;">LinkedIn</a>
 </div>
 
-<!-- Gap between Main text -->
-<div style="height: 55px;"></div>
 
-
+<!-- divider line -->
+<div style="text-align: center; font-size: 20px; color: #474747; margin-top: 50px 0;">
+  ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
+</div>
+<!-- Spacer -->
+<div style="height: 10px;"></div>
 
 ### <span id="about-me" class="section-title">About Me</span>
 
