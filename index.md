@@ -4,31 +4,32 @@ layout: default
 <!-- Link to compiled CSS -->
 <link rel="stylesheet" href="/assets/css/style.css">
 
-<!-- Navigation Bar -->
-<!-- Navigation Bar: Top Right -->
+<!-- Navigation Bar with "福" on far left and menu on right -->
 <nav style="
   display: flex;
-  justify-content: flex-end;
-  gap: 30px;
-  padding: 12px 40px 12px 0;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 40px;
   background-color: #ffffff;
   border-bottom: 1px solid #ccc;
   font-weight: 500;
   position: relative;
   z-index: 10;
 ">
-  <!-- Left logo -->
-  <div style="font-size: 20px; font-weight: bold; color: #ef8bb6;">
+
+  <!-- Left-aligned logo -->
+  <div style="font-size: 20px; font-weight: bold; color: #73ea8b;">
     福
   </div>
 
-  <!-- Right links -->
+  <!-- Right-aligned links -->
   <div style="display: flex; gap: 30px;">
     <a href="#about-me" style="color: #73ea8b; text-decoration: none;">About Me</a>
     <a href="#projects" style="color: #73ea8b; text-decoration: none;">Projects</a>
     <a href="#cv" style="color: #73ea8b; text-decoration: none;">CV</a>
   </div>
 </nav>
+
 
 <!-- Custom Clickable Banner (Centered) -->
 <div style="text-align: center; margin-top: 10px;">
