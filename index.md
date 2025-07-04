@@ -23,14 +23,13 @@ layout: default
 </nav>
 
 <!-- Custom Clickable Banner (Centered) -->
-<div style="text-align: center; margin-top: 5px;">
+<div style="text-align: center; margin-top: 10px;">
   <a href="https://gracesominl.github.io">
     <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=35&fontColor=474747" alt="Grace Somin Lee Banner" style="max-width: 100%;"/>
   </a>
 </div>
-
 <!-- Profile Image -->
-<div style="text-align: center; margin-top: 0px;">
+<div style="text-align: center; margin-top: -5px;">
   <img src="/assets/img/face2.JPG" alt="Grace Somin Lee"  style="width: 100%; max-width: 200px; height: 200px; object-fit: cover;
             clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 
                                79% 91%, 50% 70%, 21% 91%, 32% 57%, 
@@ -53,7 +52,7 @@ layout: default
 
 <!-- Gap between Main text -->
 <div style="height: 55px;"></div>
-
+<div style="border-top: 1px solid #ccc; padding-top: 1em; margin-top: 2em;">
 
 ### <span id="about-me">About Me</span>
 
