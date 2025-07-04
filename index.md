@@ -55,7 +55,7 @@ layout: default
 
 
 
-### <h3><span id="about-me" class="section-title">About Me</span></h3>
+### <span id="about-me" class="section-title">About Me</span>
 
 Hi there! I’m a master’s student in Computational Social Science at KAIST. 
 As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words...
@@ -77,13 +77,13 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 30px;"></div>
 
-### <h3><span id="projects" class="section-title">Projects</span></h3> 
+### <span id="projects" class="section-title">Projects</span> 
 - Sample Project 1
 
 <!-- Gap  -->
 <div style="height: 30px;"></div>
 
-### <h3><span id="cv" class="section-title">CV</span></h3> 
+### <span id="cv" class="section-title">CV</span> 
 - sample cv
 ---
 
