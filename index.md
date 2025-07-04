@@ -14,7 +14,7 @@ layout: default
 <!-- Profile Image -->
 <!-- Oval profile image with blurred glow -->
 <div style="display: flex; justify-content: center; margin-top: 20px;">
-  <img src="/assets/face1.jpg" alt="Grace Somin Lee"
+  <img src="/assets/img/face2.jpg" alt="Grace Somin Lee"
        style="
          width: 180px;
          height: 130px;
