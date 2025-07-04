@@ -46,6 +46,13 @@ img[alt="Grace Somin Lee"] {
 
 hr {
   border: none;
-  border-top: 1px solid rgba(0, 0, 0, 0.05);
+  border-top: 0px solid rgba(0, 0, 0, 0.05);
   margin: 1.2em 0;
 }
+
+// changing title font color
+.section-title {
+  color: #3178c6;
+  font-weight: 600;
+}
+
