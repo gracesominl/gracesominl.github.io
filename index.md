@@ -17,9 +17,17 @@ layout: default
   position: relative;
   z-index: 10;
 ">
-  <a href="#about-me" style="color: #73ea8b; text-decoration: none;">About Me</a>
-  <a href="#projects" style="color: #73ea8b; text-decoration: none;">Projects</a>
-  <a href="#cv" style="color: #73ea8b; text-decoration: none;">CV</a>
+  <!-- Left logo -->
+  <div style="font-size: 20px; font-weight: bold; color: #ef8bb6;">
+    福
+  </div>
+
+  <!-- Right links -->
+  <div style="display: flex; gap: 30px;">
+    <a href="#about-me" style="color: #73ea8b; text-decoration: none;">About Me</a>
+    <a href="#projects" style="color: #73ea8b; text-decoration: none;">Projects</a>
+    <a href="#cv" style="color: #73ea8b; text-decoration: none;">CV</a>
+  </div>
 </nav>
 
 <!-- Custom Clickable Banner (Centered) -->
@@ -52,7 +60,7 @@ layout: default
 
 
 <!-- divider line -->
-<div style="text-align: center; font-size: 20px; color: #474747; margin-top: 50px 0;">
+<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 80px 0;">
   ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
 </div>
 <!-- Spacer -->
