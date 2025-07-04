@@ -52,7 +52,7 @@ layout: default
 </div>
 
 <!-- Gap between Main text -->
-<div style="height: 50px;"></div>
+<div style="height: 55px;"></div>
 
 
 ### <span id="about-me">About Me</span>
@@ -75,10 +75,13 @@ I have always been hopeful about the power of discourse. We all live in differen
 - Research and Data Intern, UN Women (2025)
 
 <!-- Gap  -->
-<div style="height: 20px;"></div>
+<div style="height: 30px;"></div>
 
 ### <span id="projects">Projects</span> 
 - Sample Project 1
+
+<!-- Gap  -->
+<div style="height: 30px;"></div>
 
 ### <span id="cv">CV</span> 
 - sample cv
