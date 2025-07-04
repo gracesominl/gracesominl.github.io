@@ -52,7 +52,8 @@ layout: default
 
 <!-- Gap between Main text -->
 <div style="height: 55px;"></div>
-<div style="border-top: 1px solid #ccc; padding-top: 1em; margin-top: 2em;">
+
+
 
 ### <span id="about-me">About Me</span>
 
