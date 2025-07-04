@@ -33,22 +33,22 @@ layout: default
   Bringing human narratives into the digital sphere···
 </div>
 
----
 
-## About Me
+
+### <span id="about-me">About Me</span>
 
 Hi there! I’m a master’s student in Computational Social Science at KAIST.
 I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. 
 
----
 
-## Education
+
+### <span id="education">Education</span>
 - M.S. in Computational Social Science, KAIST (2025–)  
 - B.A. Political Science & Sustainable Development, Yonsei University (2024)
 
----
 
-## Research Interests 
+
+### <span id="research-interests">Research Interests</span> 
 - Data Humanism / Human-Centered AI
 - Algorithmic Bias & Representation 
 - Computational Ethnography  
