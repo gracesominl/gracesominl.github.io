@@ -42,3 +42,25 @@ img[src*="capsule-render"] {
 img[alt="Grace Somin Lee"] {
   margin-top: 0;
 }
+
+
+/* Remove horizontal lines that might be auto-rendered */
+hr {
+  display: none;
+  border: none;
+  margin: 0;
+  padding: 0;
+}
+
+/* Remove bottom border or padding below section titles (e.g. h2, h3) */
+h2, h3 {
+  border-bottom: none !important;
+  padding-bottom: 0 !important;
+  margin-bottom: 0.5em; /* optional: reduce gap under headings */
+}
+
+/* Remove extra border from section containers (if present) */
+section {
+  border-top: none !important;
+  padding-top: 0;
+}
