@@ -18,8 +18,8 @@ layout: default
   z-index: 10;
 ">
   <a href="#about-me" style="color: #73ea8b; text-decoration: none;">About Me</a>
-  <a href="#education" style="color: #73ea8b; text-decoration: none;">Education</a>
-  <a href="#research-interests" style="color: #73ea8b; text-decoration: none;">Research Interests</a>
+  <a href="#projects" style="color: #73ea8b; text-decoration: none;">Projects</a>
+  <a href="#cv" style="color: #73ea8b; text-decoration: none;">CV</a>
 </nav>
 
 <!-- Custom Clickable Banner (Centered) -->
@@ -51,25 +51,35 @@ layout: default
   <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 15px; color: #73ea8b; text-decoration: none;">LinkedIn</a>
 </div>
 
-<!-- Gao between Main text -->
-<div style="height: 60px;"></div>
+<!-- Gap between Main text -->
+<div style="height: 50px;"></div>
 
 
 ### <span id="about-me">About Me</span>
 
-Hi there! I’m a master’s student in Computational Social Science at KAIST.
-I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. 
+Hi there! I’m a master’s student in Computational Social Science at KAIST. 
+As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words...
+  - Data Humanism / Human-Centered AI;
+  - Algorithmic Bias & Representation;
+  - Computational Ethnography;
+  - (In)visibility;
+  - Violence
+I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another smol yet precious discourse. 
 
-
-### <span id="education">Education</span>
+#### Education
 - M.S. in Computational Social Science, KAIST (2025–)  
 - B.A. Political Science & Sustainable Development, Yonsei University (2024)
 
+#### Work Experience
+- Research and Data Intern, UN Women (2025)
 
-### <span id="research-interests">Research Interests</span> 
-- Data Humanism / Human-Centered AI
-- Algorithmic Bias & Representation 
-- Computational Ethnography  
+<!-- Gap  -->
+<div style="height: 20px;"></div>
 
+### <span id="projects">Projects</span> 
+- Sample Project 1
+
+### <span id="cv">CV</span> 
+- sample cv
 ---
 
