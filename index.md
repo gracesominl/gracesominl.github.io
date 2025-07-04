@@ -39,7 +39,7 @@ layout: default
 
 
 <!-- Intro Text -->
-<div style="text-align: center; font-size: 15px; margin-top: 10px; color: #474747;">
+<div style="text-align: center; font-size: 15px; margin-top: 10px; color: #474747; font-style: italic;">
   Bringing human narratives into the digital sphere···
 </div>
 
