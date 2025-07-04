@@ -18,7 +18,7 @@ layout: default
 ">
 
   <!-- Left-aligned logo -->
-  <div style="font-size: 24px; font-weight: bold; color: #f391ab;">
+  <div style="font-size: 24px; font-weight: bold; color: #f8b2c9;">
     福
   </div>
 
@@ -53,16 +53,16 @@ layout: default
 </div>
 
 <!-- Contact Bar -->
-<div style="text-align: center; margin: 60px 0;">
-  <a href="mailto:gracesomin@kaist.ac.kr" style="margin: 0 15px; color: #73ea8b; text-decoration: none;">Email</a>
-  <a href="https://github.com/gracesominl" target="_blank" style="margin: 0 15px; color: #73ea8b; text-decoration: none;">GitHub</a>
-  <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 15px; color: #73ea8b; text-decoration: none;">LinkedIn</a>
+<div style="text-align: center; margin: 30px 0;">
+  <a href="mailto:gracesomin@kaist.ac.kr" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">Email</a>
+  <a href="https://github.com/gracesominl" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">GitHub</a>
+  <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">LinkedIn</a>
 </div>
 
 
 
 <!-- divider line -->
-<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 60px;">
+<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 100px;">
   ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
 </div>
 <!-- Spacer -->
