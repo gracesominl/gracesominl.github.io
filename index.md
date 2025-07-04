@@ -18,7 +18,7 @@ layout: default
 ">
 
   <!-- Left-aligned logo -->
-  <div style="font-size: 20px; font-weight: bold; color: #73ea8b;">
+  <div style="font-size: 24px; font-weight: bold; color: #f391ab;">
     福
   </div>
 
@@ -60,8 +60,9 @@ layout: default
 </div>
 
 
+
 <!-- divider line -->
-<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 80px 0;">
+<div style="text-align: center; font-size: 15px; color: #474747; margin-top: 60px;">
   ⋆˚☆˖°⋆｡° ✮˖ ࣪ ⊹⋆.˚
 </div>
 <!-- Spacer -->
