@@ -4,6 +4,13 @@ layout: default
 <!-- Link to compiled CSS -->
 <link rel="stylesheet" href="/assets/css/style.css">
 
+<!-- Navigation Bar -->
+<nav style="display: flex; justify-content: center; gap: 30px; padding: 12px 0; background-color: #ffffff; border-bottom: 1px solid #ccc; font-weight: 500;">
+  <a href="#about-me" style="color: #3178c6; text-decoration: none;">About Me</a>
+  <a href="#education" style="color: #3178c6; text-decoration: none;">Education</a>
+  <a href="#research-interests" style="color: #3178c6; text-decoration: none;">Research Interests</a>
+</nav>
+
 <!-- Custom Clickable Banner (Centered) -->
 <div style="text-align: center; margin-top: 5px;">
   <a href="https://gracesominl.github.io">
