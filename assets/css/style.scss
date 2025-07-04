@@ -4,8 +4,8 @@
 // Custom styles below
 
 body {
-  font-family: "Helvetica Neue", sans-serif;
-  font-size: 16px;
+  font-family: "Inter", sans-serif;
+  font-size: 14px;
   color: #222;
   line-height: 1.6;
   background-color: #fdfdfd;
@@ -32,3 +32,13 @@ img {
 }
 
 
+// margin control
+
+img[src*="capsule-render"] {
+  margin-bottom: 0;
+  display: block;
+}
+
+img[alt="Grace Somin Lee"] {
+  margin-top: 0;
+}
