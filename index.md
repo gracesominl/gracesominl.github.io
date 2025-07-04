@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+<!-- Link to compiled CSS -->
+<link rel="stylesheet" href="/assets/css/style.css">
 
 <!-- Custom Clickable Banner (Centered) -->
 <div style="text-align: center; margin-top: 5px;">
