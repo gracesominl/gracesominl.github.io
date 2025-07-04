@@ -33,7 +33,7 @@ layout: default
 
 <!-- Custom Clickable Banner (Centered) -->
 <div style="text-align: center; margin-top: 10px;">
-  <a href="https://gracesominl.github.io">
+  <a href="https://gracesominlee.github.io">
     <img src="https://capsule-render.vercel.app/api?type=blur&color=timeGradient&height=180&section=header&text=Grace%20Somin%20Lee&fontSize=35&fontColor=474747" alt="Grace Somin Lee Banner" style="max-width: 100%;"/>
   </a>
 </div>
