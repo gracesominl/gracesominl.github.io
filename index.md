@@ -87,8 +87,7 @@ As a part of TDS Lab, I study how algorithmic systems can approximate human narr
 </ul>
 
 <p>
-I have always been hopeful about the power of discourse... 
-Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse.
+I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse. 
 </p>
 
 <!-- Spacer -->
@@ -96,6 +95,7 @@ Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse.
 #### Education
 - M.S. in Computational Social Science, <a href="https://ghss.kaist.ac.kr/" style="color: #f5628d; text-decoration: none;">KAIST DHCSS</a> (2025–)  
 - B.A. Political Science & Sustainable Development, <a href="https://www.yonsei.ac.kr/sc/index.do" style="color: #f5628d; text-decoration: none;">Yonsei University</a> (2024)
+
 <!-- Spacer -->
 <div style="height: 5px;"></div>
 #### Work Experience
