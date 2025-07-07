@@ -1,11 +1,9 @@
-// Import default GitHub Pages theme styles first
 @import "{{ site.theme }}";
-@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@400;500;600;700&display=swap');
 
-// Custom styles below
-
+/* Base Styles */
 body {
-  font-family: 'Inter', sans-serif !important;
+  font-family: 'Inter', sans-serif;
   font-size: 15px;
   color: #222;
   line-height: 1.6;
@@ -21,19 +19,20 @@ a {
   }
 }
 
-h1, h2, h3, h4, h5, h6, 
+h1, h2, h3, h4, h5, h6,
 .section-title, .section-header {
   font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  color: #3178c6;
+  font-size: 28px;
 }
 
+/* Images */
 img {
   max-width: 100%;
   height: auto;
   border-radius: 8px;
 }
-
-
-// margin control
 
 img[src*="capsule-render"] {
   margin-bottom: 0;
@@ -44,24 +43,14 @@ img[alt="Grace Somin Lee"] {
   margin-top: 0;
 }
 
-
+/* Horizontal Rule (remove default lines) */
 hr {
   border: none;
   border-top: 0px solid rgba(0, 0, 0, 0.05);
   margin: 1.2em 0;
 }
 
-
+/* Optional: More explicit control for section headers */
 .section-header {
-  font-family: 'Poppins', sans-serif;
-  font-size: 28px;
-  color: #3178c6;
-  font-weight: 600;
   margin-top: 40px;
-}
-
-.section-title, .section-header, h3 {
-  font-family: 'Poppins', sans-serif !important;
-  font-size: 28px !important;
-  color: #3178c6 !important;
 }
