@@ -68,7 +68,7 @@ layout: default
 <!-- Spacer -->
 <div style="height: 10px;"></div>
 
-<h3 class="section-header" id="about-me">About Me</h3>
+<h3 class="section-title" id="about-me">About Me</h3>
 
 <p>
 Hi there! I’m a master’s student in Computational Social Science at 
@@ -109,7 +109,7 @@ Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse.
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-<h3 class="section-header" id="projects">Projects</h3>
+<h3 class="section-title" id="projects">Projects</h3>
 - Sample Project 1
 
 
@@ -120,7 +120,7 @@ Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse.
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-<h3 class="section-header" id="cv">CV</h3>
+<h3 class="section-title" id="cv">CV</h3>
 [Download CV](assets/cv.pdf)
 
 
