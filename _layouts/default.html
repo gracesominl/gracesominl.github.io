@@ -3,12 +3,26 @@
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
-  <link rel="icon" href="/assets/img/horse-favicon.png" type="image/png">
+
+  <!-- ✅ Viewport for responsiveness -->
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  {{ site.head }}
-  {{ content }}
+
+  <!-- ✅ Favicon -->
+  <link rel="icon" href="/assets/img/favicon.png" type="image/png">
+
+  <!-- ✅ Load default CSS (if you have style.scss compiled) -->
+  <link rel="stylesheet" href="/assets/css/style.css">
 </head>
+
 <body>
-  {{ content }}
+
+  <!-- ✅ Optional: Navigation bar -->
+  <!-- Add nav here if needed -->
+
+  <!-- ✅ Wrap main content to center it and add spacing -->
+  <main style="max-width: 900px; margin: 0 auto; padding: 20px;">
+    {{ content }}
+  </main>
+
 </body>
 </html>
