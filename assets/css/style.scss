@@ -4,7 +4,7 @@
 // Custom styles below
 
 body {
-  font-family: "Inter", sans-serif;
+  font-family: 'Inter', sans-serif;
   font-size: 14px;
   color: #222;
   line-height: 1.6;
@@ -20,9 +20,9 @@ a {
   }
 }
 
-h1, h2, h3, h4 {
-  font-weight: 600;
-  color: #1a1a1a;
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600; // or 700 for bold
 }
 
 img {
