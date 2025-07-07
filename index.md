@@ -68,17 +68,29 @@ layout: default
 <!-- Spacer -->
 <div style="height: 10px;"></div>
 
-<h3 id="about-me" class="section-title">About Me</h3>
+<h3 class="section-header" id="about-me">About Me</h3>
 
-Hi there! I’m a master’s student in Computational Social Science at <a href="https://kaist.ac.kr/en/" style="color: #f5628d; text-decoration: none;">KAIST</a>. 
-As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words such as...
-  - Data Humanism / Human-Centered AI;
-  - Algorithmic Bias & Representation;
-  - Computational Ethnography;
-  - (In)visibility;
-  - Violence
+<p>
+Hi there! I’m a master’s student in Computational Social Science at 
+<a href="https://kaist.ac.kr/en/" style="color: #f5628d; text-decoration: none;">KAIST</a>.
+As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities.
+</p>
 
-I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse. 
+<p>These ideas can be represented through key words such as...</p>
+
+<ul>
+  <li>Data Humanism / Human-Centered AI</li>
+  <li>Algorithmic Bias & Representation</li>
+  <li>Computational Ethnography</li>
+  <li>(In)visibility</li>
+  <li>Violence</li>
+</ul>
+
+<p>
+I have always been hopeful about the power of discourse... 
+Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse.
+</p>
+
 <!-- Spacer -->
 <div style="height: 5px;"></div>
 #### Education
@@ -97,7 +109,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-<h3 id="projects" class="section-title">Projects</h3>
+<h3 class="section-header" id="projects">Projects</h3>
 - Sample Project 1
 
 
@@ -108,8 +120,8 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-<h3 id="cv" class="section-title">CV</h3>
-- sample cv
+<h3 class="section-header" id="cv">CV</h3>
+[Download CV](assets/cv.pdf)
 
 
 ---
