@@ -2,25 +2,15 @@
 layout: default
 ---
 
-<!-- Navigation Bar with "福" on far left and menu on right -->
+<!-- Navigation Bar with 福 on the left and menu on the right -->
 <nav class="top-nav">
-  <div class="nav-links">
-    <a href="#about-me">About Me</a>
-    <a href="#projects">Projects</a>
-    <a href="#cv">CV</a>
-  </div>
-</nav>
-
-  <!-- Left-aligned logo -->
-  <div style="font-size: 24px; font-weight: bold; color: #ffd0de;">
-    福
-  </div>
-
-  <!-- Right-aligned links -->
-  <div style="display: flex; gap: 30px;">
-    <a href="#about-me">About Me</a>
-    <a href="#projects">Projects</a>
-    <a href="#cv">CV</a>
+  <div class="nav-container">
+    <div class="nav-logo">福</div>
+    <div class="nav-links">
+      <a href="#about-me">About Me</a>
+      <a href="#projects">Projects</a>
+      <a href="#cv">CV</a>
+    </div>
   </div>
 </nav>
 
