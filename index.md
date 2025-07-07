@@ -82,10 +82,10 @@ I have always been hopeful about the power of discourse. We all live in differen
 
 #### Education
 - M.S. in Computational Social Science, <a href="https://ghss.kaist.ac.kr/" style="color: #f5628d; text-decoration: none;">KAIST DHCSS</a>(2025–)  
-- B.A. Political Science & Sustainable Development, <a href="https://www.yonsei.ac.kr/sc/index.do" style="color: #f5628d; text-decoration: none;">Yonsei University (2024)
+- B.A. Political Science & Sustainable Development, <a href="https://www.yonsei.ac.kr/sc/index.do" style="color: #f5628d; text-decoration: none;">Yonsei University</a> (2024)
 
 #### Work Experience
-- Research and Data Intern, <a href="https://asiapacific.unwomen.org/en/countries/rok" style="color: #f5628d; text-decoration: none;">UN Women (02.2025 - 08.2025)
+- Research and Data Intern, <a href="https://asiapacific.unwomen.org/en/countries/rok" style="color: #f5628d; text-decoration: none;">UN Women</a> (02.2025 - 08.2025)
 
 
 <!-- divider line -->
