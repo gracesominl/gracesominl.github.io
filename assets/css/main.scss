@@ -79,3 +79,16 @@ ul li::before {
   color: #a3f185;         /* Sets custom bullet color */
   margin-right: 0.5em;   /* Space between bullet and text */
 }
+
+/* animating nav bar*/
+nav a {
+  color: #73ea8b;
+  text-decoration: none;
+  font-weight: 500;
+  transition: color 0.3s ease, border-bottom 0.3s ease;
+}
+
+nav a:hover {
+  color: #9a9bf5;
+  border-bottom: 2px solid #b882e8; /* Optional: underline effect */
+}
