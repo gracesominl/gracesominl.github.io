@@ -60,13 +60,14 @@ hr {
   margin-bottom: 15px;
 }
 
+/* ✦ Custom bullet styling for unordered lists ✦ */
 ul {
-  padding-left: 2em; /* Indent */
-  list-style: none;  /* Remove default bullet */
+  padding-left: 2em;     /* Indents the whole list */
+  list-style: none;      /* Removes default bullets */
 }
 
 ul li::before {
-  content: '✦ '; /* Or try: '✨', '★', '⋆', '•' */
-  color: #f5b0e6;
-  margin-right: 0.5em;
+  content: '✦ ';         /* Adds sparkle-style bullet */
+  color: #f5b0e6;         /* Sets custom bullet color */
+  margin-right: 0.5em;   /* Space between bullet and text */
 }
