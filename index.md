@@ -22,9 +22,9 @@ layout: default
 
   <!-- Right-aligned links -->
   <div style="display: flex; gap: 30px;">
-    <a href="#about-me" style="color: #73ea8b; text-decoration: none;">About Me</a>
-    <a href="#projects" style="color: #73ea8b; text-decoration: none;">Projects</a>
-    <a href="#cv" style="color: #73ea8b; text-decoration: none;">CV</a>
+    <a href="#about-me">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#cv">CV</a>
   </div>
 </nav>
 
