@@ -94,7 +94,7 @@ Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse.
 <!-- Spacer -->
 <div style="height: 5px;"></div>
 #### Education
-- M.S. in Computational Social Science, <a href="https://ghss.kaist.ac.kr/" style="color: #f5628d; text-decoration: none;">KAIST DHCSS</a>(2025–)  
+- M.S. in Computational Social Science, <a href="https://ghss.kaist.ac.kr/" style="color: #f5628d; text-decoration: none;">KAIST DHCSS</a> (2025–)  
 - B.A. Political Science & Sustainable Development, <a href="https://www.yonsei.ac.kr/sc/index.do" style="color: #f5628d; text-decoration: none;">Yonsei University</a> (2024)
 <!-- Spacer -->
 <div style="height: 5px;"></div>
