@@ -70,7 +70,7 @@ layout: default
 
 ### <span id="about-me" class="section-title">About Me</span>
 
-Hi there! I’m a master’s student in Computational Social Science at KAIST. 
+Hi there! I’m a master’s student in Computational Social Science at <a href="https://kaist.ac.kr/en/" style="color: #f5628d; text-decoration: none;">KAIST</a>. 
 As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words such as...
   - Data Humanism / Human-Centered AI;
   - Algorithmic Bias & Representation;
@@ -81,11 +81,11 @@ As a part of TDS Lab, I study how algorithmic systems can approximate human narr
 I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse. 
 
 #### Education
-- M.S. in Computational Social Science, KAIST (2025–)  
-- B.A. Political Science & Sustainable Development, Yonsei University (2024)
+- M.S. in Computational Social Science, <a href="https://ghss.kaist.ac.kr/" style="color: #f5628d; text-decoration: none;">KAIST DHCSS</a>(2025–)  
+- B.A. Political Science & Sustainable Development, <a href="https://www.yonsei.ac.kr/sc/index.do" style="color: #f5628d; text-decoration: none;">Yonsei University (2024)
 
 #### Work Experience
-- Research and Data Intern, UN Women (2025)
+- Research and Data Intern, <a href="https://asiapacific.unwomen.org/en/countries/rok" style="color: #f5628d; text-decoration: none;">UN Women (02.2025 - 08.2025)
 
 
 <!-- divider line -->
@@ -108,5 +108,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 
 ### <span id="cv" class="section-title">CV</span> 
 - sample cv
+
+
 ---
 
