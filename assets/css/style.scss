@@ -52,7 +52,9 @@ hr {
 
 // changing title font color
 .section-title {
-  color: #ed8497;
-  font-weight: 600;
+  color: #ed8497;           // Change this to your preferred color
+  font-family: 'Helvetica Neue', serif; // Change this to your desired font
+  font-size: 28px;          // Optional: adjust size
+  font-weight: bold;        // Optional: make it bold
 }
 
