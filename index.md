@@ -2,7 +2,7 @@
 layout: default
 ---
 <!-- Link to compiled CSS -->
-<link rel="stylesheet" href="/assets/css/style.css">
+<link rel="stylesheet" href="/assets/css/style.scss">
 
 <!-- Navigation Bar with "福" on far left and menu on right -->
 <nav style="
