@@ -3,17 +3,13 @@ layout: default
 ---
 
 <!-- Navigation Bar with "福" on far left and menu on right -->
-<nav style="
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  padding: 12px 40px;
-  background-color: #ffffff;
-  border-bottom: 1px solid #ccc;
-  font-weight: 500;
-  position: relative;
-  z-index: 10;
-">
+<nav class="top-nav">
+  <div class="nav-links">
+    <a href="#about-me">About Me</a>
+    <a href="#projects">Projects</a>
+    <a href="#cv">CV</a>
+  </div>
+</nav>
 
   <!-- Left-aligned logo -->
   <div style="font-size: 24px; font-weight: bold; color: #ffd0de;">
