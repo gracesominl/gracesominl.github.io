@@ -54,9 +54,9 @@ layout: default
 
 <!-- Contact Bar -->
 <div style="text-align: center; margin: 30px 0;">
-  <a href="mailto:gracesomin@kaist.ac.kr" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">Email</a>
-  <a href="https://github.com/gracesominlee" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">GitHub</a>
-  <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 15px; color: #ffb95e; text-decoration: none;">LinkedIn</a>
+  <a href="mailto:gracesomin@kaist.ac.kr" style="margin: 0 16px; color: #ffb95e; text-decoration: none;">Email</a>
+  <a href="https://github.com/gracesominlee" target="_blank" style="margin: 0 16px; color: #ffb95e; text-decoration: none;">GitHub</a>
+  <a href="https://www.linkedin.com/in/gracesomin-l/" target="_blank" style="margin: 0 16px; color: #ffb95e; text-decoration: none;">LinkedIn</a>
 </div>
 
 
@@ -68,7 +68,7 @@ layout: default
 <!-- Spacer -->
 <div style="height: 10px;"></div>
 
-### <span id="about-me" class="section-title">About Me</span>
+<h3 id="about-me" class="section-title">About Me</h3>
 
 Hi there! I’m a master’s student in Computational Social Science at <a href="https://kaist.ac.kr/en/" style="color: #f5628d; text-decoration: none;">KAIST</a>. 
 As a part of TDS Lab, I study how algorithmic systems can approximate human narratives, focusing on methods to surface the stories of those underrepresented in data. I aim to critically examine how meaning, context, and ethical responsibility can be preserved in the process of modeling social realities. These ideas can be represented through key words such as...
@@ -79,11 +79,13 @@ As a part of TDS Lab, I study how algorithmic systems can approximate human narr
   - Violence
 
 I have always been hopeful about the power of discourse. We all live in different worlds of our own, but through language -- spoken, written, embodied, or encoded -- I believe us humans can make our realities legible to one another. If you wish to share your side of the world, feel free to reach out to me. Let's kickstart another ₊⊹smol‧₊˚ yet precious discourse. 
-
+<!-- Spacer -->
+<div style="height: 5px;"></div>
 #### Education
 - M.S. in Computational Social Science, <a href="https://ghss.kaist.ac.kr/" style="color: #f5628d; text-decoration: none;">KAIST DHCSS</a>(2025–)  
 - B.A. Political Science & Sustainable Development, <a href="https://www.yonsei.ac.kr/sc/index.do" style="color: #f5628d; text-decoration: none;">Yonsei University</a> (2024)
-
+<!-- Spacer -->
+<div style="height: 5px;"></div>
 #### Work Experience
 - Research and Data Intern, <a href="https://asiapacific.unwomen.org/en/countries/rok" style="color: #f5628d; text-decoration: none;">UN Women</a> (02.2025 - 08.2025)
 
@@ -95,7 +97,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-### <span id="projects" class="section-title">Projects</span> 
+<h3 id="projects" class="section-title">Projects</h3>
 - Sample Project 1
 
 
@@ -106,7 +108,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-### <span id="cv" class="section-title">CV</span> 
+<h3 id="cv" class="section-title">CV</h3>
 - sample cv
 
 
