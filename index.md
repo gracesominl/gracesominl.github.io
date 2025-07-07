@@ -68,7 +68,7 @@ layout: default
 <!-- Spacer -->
 <div style="height: 10px;"></div>
 
-<h3 class="section-title" id="about-me">About Me</h3>
+### <span id="about-me" class="section-title">About Me</span>
 
 Hi there! I’m a master’s student in Computational Social Science at 
 <a href="https://kaist.ac.kr/en/" style="color: #f5628d; text-decoration: none;">KAIST</a>.
@@ -106,7 +106,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-<h3 class="section-title" id="projects">Projects</h3>
+### <span id="projects" class="section-title">Projects</span>
 - Sample Project 1
 
 
@@ -117,7 +117,7 @@ I have always been hopeful about the power of discourse. We all live in differen
 <!-- Gap  -->
 <div style="height: 10px;"></div>
 
-<h3 class="section-title" id="cv">CV</h3>
+### <span id="cv" class="section-title">CV</span>
 [Download CV](assets/cv.pdf)
 
 
