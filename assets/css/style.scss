@@ -1,5 +1,6 @@
 // Import default GitHub Pages theme styles first
 @import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@500;600;700&display=swap');
 
 // Custom styles below
 
@@ -20,9 +21,8 @@ a {
   }
 }
 
-h1, h2, h3, h4, h5, h6 {
-  font-family: 'Inter', sans-serif;
-  font-weight: 600; // or 700 for bold
+h1, h2, h3, h4, h5, h6, .section-title {
+  font-family: 'Poppins', sans-serif;
 }
 
 img {
@@ -50,13 +50,6 @@ hr {
   margin: 1.2em 0;
 }
 
-// changing title font color
-.section-title {
-  color: #ed8497;           // Change this to your preferred color
-  font-family: 'Helvetica Neue', serif; // Change this to your desired font
-  font-size: 28px;          // Optional: adjust size
-  font-weight: bold;        // Optional: make it bold
-}
 
 .section-header {
   font-family: 'Poppins', sans-serif;
